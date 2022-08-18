@@ -13,19 +13,19 @@ const About = () => {
 
         <p className="text-xl mt-20">
           I am an experienced full stack developer from Ghaziabad India working
-          with reactjs. Additionally trained with python , C++ , Django. I have
-          made various projects in react and django in my first and second year
-          of graduation time. i have a goal in which i want to keep learning ,
-          achieving and always take failure as a one step towards success.
+          with reactjs and nextjs. Additionally trained with python , C++ ,
+          Javascript. I have made various projects in react and django in my
+          first and second year of graduation time. i have a goal in which i
+          want to keep learning , achieving and always take failure as a one
+          step towards success.
         </p>
 
         <br />
 
         <p className="text-xl">
           My hunger for knowledge gave me enough determination to turn my ideas
-          in to live projects.My most recent project "Crown Clothing" is the
-          proof of my determination in which i used reactjs,firebase,hooks and
-          redux.
+          in to live projects.My projects are the proof of my determination in
+          which i used reactjs,firebase,hooks and redux.
         </p>
       </div>
     </div>
