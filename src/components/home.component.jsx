@@ -15,7 +15,7 @@ const Home = () => {
             I'm a Front End Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I'm a developer that loves simplifying things. I love breaking down
+            I'm a developer who loves simplifying things. I love breaking down
             complex problems into simple, easy to understand solutions. I live
             in India as a software developer. In my spare time, I love to solve
             DS and Algorithms Question.
