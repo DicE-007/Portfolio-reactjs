@@ -53,10 +53,10 @@ const PortFolio = () => {
               />
               <div className="flex items-center justify-center">
                 <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                  <a href={code}>Code Link</a>
+                  <a href={code} target="_blank" rel="noopener noreferrer">Code Link</a>
                 </button>
                 <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                  <a href={link}>Website Link</a>
+                  <a href={link} target="_blank" rel="noopener noreferrer">Website Link</a>
                 </button>
               </div>
             </div>
